@@ -8,7 +8,7 @@
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/yacoquss?theme=light&font=Noto%20Sans%20Wancho&ext=activity)
 
-My Sites with games:
+My games:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/yandex.svg' alt='yandex' height='40'>](https://yandex.ru/games/developer/44540#redir-data=%7B"http_ref"%3A"https%253A%252F%252Fyandex.ru%252Fgames%252F%2523app%253D360410"%2C"rn"%3A326202043%7D) 
 [<img src='https://img.icons8.com/?size=100&id=b3EFsmGYNiSl&format=png&color=000000' alt='itch.io' height='40'>](https://yacoquss.itch.io)
