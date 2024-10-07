@@ -1,6 +1,7 @@
+![a novice developer](https://media1.tenor.com/m/NqnB-zPdIMQAAAAd/epic-facepalm-fat-guy.gif)
 ### Hi there 👋, my name yacoquss
 #### a novice developer
-![a novice developer](https://media1.tenor.com/m/74XR2zVonbwAAAAC/lol.gif)
+
 
 
 - 📫 How to reach me: yacoquss@mail.ru 
